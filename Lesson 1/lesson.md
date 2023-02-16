@@ -1,3 +1,4 @@
+# Lesson 1 - Greetings and Introduction
 ## Greeting
 
 Informal |  Formal
